@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e6749c4f2e1918bff9dbec13af05c751fc381b3d445dd58a7a0d45042d7f549
-size 17
+flask
+gunicorn
