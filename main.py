@@ -9,8 +9,8 @@ app = Flask(__name__)
 # CONFIG
 # ============================================================
 ZEROS_FILE = "zerosdata.txt"
-MAX_ZEROS = 10_000
-ZERO_COUNT = 10_000
+MAX_ZEROS = 5_000
+ZERO_COUNT = 5_000
 
 X_MIN = 2
 X_MAX = 500
